@@ -154,10 +154,7 @@ A `virtual home lab` is a software-based environment you set up at home to test,
 4. Double-click the extracted folder
 5. Double-click the `kali-linux-2025.2-virtualbox-amd64.vbox` to import into VirtualBox
 
- <img width="641" height="230" alt="Lab 30" src="https://github.com/user-attachments/assets/8fb3ec55-15fd-4ce3-8ce9-f3512747504e" /></br>
-
-*Note: If you can't see file extensions `.vbox`, click on view and check file name extensions.*
-
+ 
 ---
 
 ### Step 4: `Start` the `Kali Linux` VM
